@@ -1,43 +1,40 @@
+# Web-technologies Repository
 
-# Yaswanth's Portfolio Website
+Welcome to the Web-technologies repository! This repository contains a collection of web-based projects that I’ve created using HTML, CSS, and JavaScript. Below is an overview of the contents:
 
-Welcome to my portfolio website! This project showcases my skills and experiences as a software developer and designer, reflecting my passion for technology and design.
+## Projects
 
-## About Me
+### 1. Crime Blog Site
+A blog site dedicated to crime-related articles and news. It features a user-friendly interface and a responsive design.
 
-I’m Yaswanth, a software developer and designer with a strong foundation in computer science and a keen eye for design. My work combines technical expertise with creative vision, allowing me to create innovative solutions.
+### 2. Portfolio Website
+This is my personal portfolio website where I showcase my skills, projects, and experiences. The site is built with HTML and CSS, and it is designed to be clean and modern.
 
-## Features
+### 3. Calculator
+A simple web-based calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and has a sleek user interface.
 
-- **Introduction:** Learn about my background and interests.
-- **Education:** Overview of my academic achievements.
-- **Projects:** A curated selection of projects that highlight my skills and expertise.
-- **Contact:** A form to easily get in touch with me.
-- **Social Links:** Access my social media profiles and GitHub repository.
+### 4. Listrace-v1.0
+An earlier project that includes basic web functionality. Details about this project can be found within the project folder.
+
+## Getting Started
+
+To explore these projects, you can clone the repository and open the respective project folders in your code editor. Each project is self-contained and has its own set of HTML, CSS, and JavaScript files.
+
+```bash
+git clone https://github.com/yashh-17/Web-technologies.git
+cd Web-technologies
+```
 
 ## Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript** *(planned for future updates)*
+- **HTML5** - Structure of the web pages
+- **CSS3** - Styling and layout
+- **JavaScript** - Interactive elements (planned for future updates in some projects)
 
-## Design
+## How to Contribute
 
-The website features a clean, modern, and user-friendly design. It uses a minimalistic color scheme focused on whites, grays, and blacks. The fonts include Arial, sans-serif for body text and Playfair Display, serif for headings.
-
-## Future Updates
-
-Planned enhancements include:
-- Adding more projects to the portfolio.
-- Implementing JavaScript for better interactivity.
-- Improving accessibility and responsiveness.
+If you would like to contribute to any of the projects in this repository, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
 
-This website is licensed under the [MIT License](LICENSE). You are free to use and modify the code as you see fit.
-
-## Contact
-
-For questions, comments, or collaboration opportunities, please reach out via the contact form on the website or email me at yaswanthvuyyuru@gmail.com.
-
-Thank you for visiting my portfolio website!
+This repository is licensed under the MIT License. You are free to use, modify, and distribute the code.
