@@ -13,8 +13,8 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 ### 3. Calculator
 A simple web-based calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and has a sleek user interface.
 
-### 4. Listrace-v1.0
-An earlier project that includes basic web functionality. Details about this project can be found within the project folder.
+### 4. To Do List
+An earlier project that includes basic basic HTML, CSS and JS  . Details about this project can be found within the project folder.
 
 ## Getting Started
 
